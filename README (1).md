@@ -21,7 +21,7 @@ A detailed table comparing all channels across spend, revenue, CPL, LTV, ROI, co
 **3. Budget Reallocation Simulator**
 An interactive what-if tool. A slider adjusts the share of budget shifted toward Google; the dashboard recalculates projected revenue in real time and surfaces the resulting uplift.
 
-![Simulator page](screenshots/simulator.png)
+![Simulator page](screenshots/budget simulator.png)
 
 ## Key metrics and logic
 
