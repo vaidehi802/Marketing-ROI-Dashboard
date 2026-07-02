@@ -18,10 +18,12 @@ Three headline KPI cards (Total Revenue, Total Ad Spend, Blended ROI) above thre
 **2. Channel Comparison**
 A detailed table comparing all channels across spend, revenue, CPL, LTV, ROI, conversion rate, and LTV:CAC ratio — the core efficiency metrics side by side.
 
+![channel comparisin](screenshots/channel_performance.png)
+
 **3. Budget Reallocation Simulator**
 An interactive what-if tool. A slider adjusts the share of budget shifted toward Google; the dashboard recalculates projected revenue in real time and surfaces the resulting uplift.
 
-![Simulator page](screenshots/budget simulator.png)
+![Simulator page](screenshots/simulator.png)
 
 ## Key metrics and logic
 
