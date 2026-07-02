@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing marketing spend, revenue, and channel efficiency across Google, Meta, and Influencer campaigns — with a live budget-reallocation simulator.
 
-![Overview page](screenshots/overview.png)
+![Overview page](screenshot/overview.png)
 
 ## Overview
 
@@ -18,12 +18,12 @@ Three headline KPI cards (Total Revenue, Total Ad Spend, Blended ROI) above thre
 **2. Channel Comparison**
 A detailed table comparing all channels across spend, revenue, CPL, LTV, ROI, conversion rate, and LTV:CAC ratio — the core efficiency metrics side by side.
 
-![channel comparisin](screenshots/channel_performance.png)
+![channel comparisin](screenshot/channel_performance.png)
 
 **3. Budget Reallocation Simulator**
 An interactive what-if tool. A slider adjusts the share of budget shifted toward Google; the dashboard recalculates projected revenue in real time and surfaces the resulting uplift.
 
-![Simulator page](screenshots/simulator.png)
+![Simulator page](screenshot/simulator.png)
 
 ## Key metrics and logic
 
